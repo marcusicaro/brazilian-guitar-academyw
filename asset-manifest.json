@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/brazilian-guitar-academyw/static/css/main.5232a492.css",
+    "main.js": "/brazilian-guitar-academyw/static/js/main.020c4142.js",
+    "static/media/videoBg.mp4": "/brazilian-guitar-academyw/static/media/videoBg.748a8b2c17172313c2a0.mp4",
+    "static/media/logo.png": "/brazilian-guitar-academyw/static/media/logo.702e60b5ba32aee8d039.png",
+    "index.html": "/brazilian-guitar-academyw/index.html",
+    "main.5232a492.css.map": "/brazilian-guitar-academyw/static/css/main.5232a492.css.map",
+    "main.020c4142.js.map": "/brazilian-guitar-academyw/static/js/main.020c4142.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5232a492.css",
+    "static/js/main.020c4142.js"
+  ]
+}
